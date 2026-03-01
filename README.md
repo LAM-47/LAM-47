@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LAM-47
 - 👀 I’m interested in Gaming
-- 🌱 I’m currently learning Animation
+- 🌱 I’m currently learning AI & APP Deveplopment
 - 💞️ I’m looking to collaborate on content creation
 - 📫 Inbox for any king of help
 
