@@ -1,4 +1,4 @@
--👋 Hi, I’m @LAM-47
+-👋 Hi, I’m Arafat Zayed Lam
 -💻 Frontend Developer | Learning AI & App Development  
 -🚀 Passionate about building interactive web applications  
 -📫 Inbox for any king of help
